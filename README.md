@@ -16,6 +16,9 @@ Open the directory and run make or use the precompiled version.
 
 `make`
 
+Before you can use the generator you need to run the following command (after every reboot):
+`cat /opt/redpitaya/fpga/fpga_0.94.bit >/dev/xdevcfg`
+
 ## Examples
 
 Here in the examples, a frequency of 20kHz and Channel 2 was used. A duty cycle 50/50 is equal to a square wave:
