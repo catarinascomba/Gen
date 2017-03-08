@@ -11,6 +11,9 @@ with a duty cycle between 0.1 and 99.9.
 Login via SSH into your RedPitaya and clone the files. You can use the precompiled "generate" or compile it on your own:
 
 `git clone https://github.com/schlenzmeister/RedPitayaGenerator.git`
+
+Open the directory and run make or use the precompiled version.
+
 `make`
 
 ## Examples
