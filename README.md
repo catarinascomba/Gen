@@ -1,8 +1,6 @@
 # RedPitayaGenerator
 RedPitaya Function Generator
 
-# Welcome to the RedPitayaGenerator wiki!
-
 This a modified version of the original RedPitaya function generator: http://wiki.redpitaya.com/index.php?title=Command_line_utilities
 
 While the original generator doesn't support [PWM](https://en.wikipedia.org/wiki/Pulse-width_modulation), this version has an extra option. It's possible to use PWM output via 
